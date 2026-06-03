@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#hd{
+    background: rgb(78, 74, 74);
+    justify-content: center;
+    display: grid;
+}
